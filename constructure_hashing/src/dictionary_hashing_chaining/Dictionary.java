@@ -1,6 +1,6 @@
-package dictionary_hashing;
+package dictionary_hashing_chaining;
 
-public class TestDictionaryHashing {
+public class Dictionary {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
